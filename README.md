@@ -1,2 +1,3 @@
-# audits
-Smart Contract Audits
+# Smart Contract Audits
+
+Reports from Audits in JSON.
